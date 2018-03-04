@@ -1,0 +1,20 @@
+{
+  "name": "pixi-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel watch index.html",
+    "server": "lite-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pixi.js": "^4.7.0"
+  },
+  "devDependencies": {
+    "lite-server": "^2.3.0",
+    "parcel-bundler": "^1.6.2"
+  }
+}
