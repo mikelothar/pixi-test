@@ -37,7 +37,7 @@ function setup() {
     //Create a rectangle object that defines the position and
     //size of the sub-image you want to extract from the texture
     //(`Rectangle` is an alias for `PIXI.Rectangle`)
-    let rectangle = new Rectangle(96, 64, 32, 32);
+    let rectangle = new Rectangle(192, 128, 64, 64);
 
     //Tell the texture to use that rectangular section
     texture.frame = rectangle;
